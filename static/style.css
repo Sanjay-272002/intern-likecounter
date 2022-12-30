@@ -52,3 +52,42 @@ header{
     font-weight: 600;
     text-transform: uppercase;
 }
+#up{
+    width:200px ;
+}
+#down{
+    width: 190px;
+}
+
+@media  screen and  (max-width:730px){
+    header{
+        
+        width: 200px;
+        height: 70px;
+        /* border: 5px solid black; */
+    }
+    .out{
+       
+        margin-left: 60px
+    }
+    .thumbs{
+
+        margin-left:60px;
+        
+    }
+    .count{
+       
+        margin-left: 60px}
+    .thumm{
+        size: 10px;
+        margin-left: 30px;
+    }
+    #up{
+        width: 105px;   }
+    #down{
+            width: 105px;   }
+    .out,.in{
+        min-height: 30vh;
+    }
+    
+}
