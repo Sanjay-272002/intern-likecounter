@@ -12,5 +12,5 @@
 
 ### About the website
  - It is a like and dislike counter app.
- - I have used models to send data to database. we can viw it in django-admin.
+ - I have used models to send data to database. we can view it in django-admin.
  - I have used Ajax to Post and Get data from django views to js file .By this without refreshing the counter value will change.
